@@ -1,7 +1,4 @@
-/* 
-	Nabeel Mahdi Abid Mehdi Sayed
-	G01213257
-*/
+
 
 #define DEBUG
 
